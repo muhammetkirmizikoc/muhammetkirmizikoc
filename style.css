@@ -252,7 +252,7 @@ background: linear-gradient(27deg, rgba(9,9,121,0.7889749649859944) 26%, rgba(25
     flex-direction: column;
     text-align: left;
   }
-  #hakkimda h1{
+/*  #hakkimda h1{
     background: linear-gradient(46deg, rgba(24, 190, 255, 0.789) 26%, rgba(7,255,0,0.8646052170868348) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -262,3 +262,4 @@ background: linear-gradient(27deg, rgba(9,9,121,0.7889749649859944) 26%, rgba(25
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+*/
